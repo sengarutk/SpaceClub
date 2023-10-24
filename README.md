@@ -72,13 +72,10 @@ plt.show()  #displays the graph
 
 ## Screenshots
 
-![](https://drive.google.com/file/d/1xY92hPkLYa-BmgQPygevqFp6pyWXuO3r/view?usp=share_link)
 
-![](https://drive.google.com/file/d/10RlXmqE7rRgWsZxNqT4E--2SB62-O4Qe/view?usp=share_link)
-
-![](https://drive.google.com/file/d/12_EKomq46Cz9R9wGqAUUb6H_hmdkzHtI/view?usp=share_link)
-
-![](https://drive.google.com/file/d/1nWlo8_7Haq91GGmfheQ59RScR0OkMckh/view?usp=share_link)
-
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_26_44](https://github.com/sengarutk/SpaceClub/assets/148872020/1c7e6a0e-aafe-4ba1-ae75-c049816ce63a)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_26_53](https://github.com/sengarutk/SpaceClub/assets/148872020/ddbdcaee-f0b4-463c-8e1c-6edbf3623951)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_27_08](https://github.com/sengarutk/SpaceClub/assets/148872020/56c22bba-e0a0-45bf-9b53-a2ea5858b18a)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_27_13](https://github.com/sengarutk/SpaceClub/assets/148872020/98edc962-7c05-4675-8be8-00575090f3c2)
 
 
