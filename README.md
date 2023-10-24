@@ -88,14 +88,13 @@ plt.show()  #displays the graph
 
 
 ## Screenshots
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_26_44](https://github.com/sengarutk/SpaceClub/assets/148872020/2ebb1b54-c628-42ba-87fc-df62e1a5de7e)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_26_53](https://github.com/sengarutk/SpaceClub/assets/148872020/5c9f2a2b-a009-4a10-8163-53b32c2b2ab6)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_27_08](https://github.com/sengarutk/SpaceClub/assets/148872020/b9898950-c2df-4cc8-960c-70c944ce99a2)
+![file ipynb - Space club - Visual Studio Code 10_23_2023 16_27_13](https://github.com/sengarutk/SpaceClub/assets/148872020/38ef7ad6-a85c-440b-a624-d3f91b216a15)
 
-![](https://drive.google.com/file/d/1xY92hPkLYa-BmgQPygevqFp6pyWXuO3r/view?usp=share_link)
 
-![](https://drive.google.com/file/d/10RlXmqE7rRgWsZxNqT4E--2SB62-O4Qe/view?usp=share_link)
 
-![](https://drive.google.com/file/d/12_EKomq46Cz9R9wGqAUUb6H_hmdkzHtI/view?usp=share_link)
-
-![](https://drive.google.com/file/d/1nWlo8_7Haq91GGmfheQ59RScR0OkMckh/view?usp=share_link)
 
 
 
